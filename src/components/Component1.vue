@@ -1,4 +1,5 @@
 <script>
+import { store } from "../store.js";
 
 export default {
     name: 'Component1',
@@ -7,7 +8,7 @@ export default {
     },
     data() {
         return {
-            
+            store
         }
     },
     methods:{

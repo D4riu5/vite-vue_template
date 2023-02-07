@@ -1,6 +1,6 @@
 <script>
 import Component1 from './components/Component1.vue';
-
+import { store } from "./store.js";
 
 export default {
     name: "App",
@@ -9,7 +9,7 @@ export default {
     },
     data() {
           return {
-              
+             store, 
           }
       },
     methods:{
