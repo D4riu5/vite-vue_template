@@ -58,3 +58,8 @@ Passi successivi:
 2. Vado alla sezione Getting started/Introduction/First steps
 3. Vedo come installare via NPM [qual è il comando e qual è il pacchetto da installare (o i pacchetti, come per Bootstrap che vuole popper)]
 4. Vedo se c'è altro da configurare (come per Font Awesome con Vue)
+
+EDIT THIS
+
+-To add Router
+npm install vue-router@4
